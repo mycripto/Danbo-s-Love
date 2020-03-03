@@ -55,14 +55,14 @@ body{
 #head{
     height: 500px;
     padding-bottom: 20px;
-    background-image: url(/images/header-bg.png);
+    background-image: url(./images/header-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
 }
 #wrapper-mid{
     height: 500px;
     padding-bottom: 0;
-    background-image: url(/images/biography-bg.png);
+    background-image: url(./images/biography-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -76,7 +76,7 @@ aside{
 #work{
     height: 400px;
     padding-bottom: 20px;
-    background-image: url(/images/latest-work-bg.png);
+    background-image: url(../images/latest-work-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
     
@@ -107,7 +107,7 @@ footer{
     width: 40%;
     height: 500px;
     margin-top: 30px;
-    background-image: url("/images/danbo1.png");
+    background-image: url("../images/danbo1.png");
     background-size: 70%;
     background-repeat: no-repeat;
     background-position: top, center;
@@ -118,7 +118,7 @@ footer{
     height: 500px;
     width: 40%;
     margin-top: 30px;
-    background-image: url("/images/danbo-love.png");
+    background-image: url("./images/danbo-love.png");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: top, left;
@@ -149,21 +149,21 @@ footer{
     font-style: italic;
 }
 #work-one{
-    background-image: url("/images/last1.png");
+    background-image: url("./images/last1.png");
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: center;
     height: 200px;
 }
 #work-two{
-    background-image: url("/images/last2.png");
+    background-image: url("./images/last2.png");
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: center;
     height: 200px;
 }
 #work-three{
-    background-image: url("/images/last3.png");
+    background-image: url("./images/last3.png");
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: center;
@@ -201,7 +201,7 @@ footer{
 #footer{
     height: 400px;
     padding-bottom: 20px;
-    background-image: url(/images/footer-bg.png);
+    background-image: url(./images/footer-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
 }
