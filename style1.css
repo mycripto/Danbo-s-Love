@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#wrapper{
+    height: 200px;
+    background-image: url("/images/peter.png");
+    background-size: 80%;
+    background-repeat: no-repeat;
+   }
+.half{
+    height: 200px;
+    width: 49%;
+    border: 1px solid black;
+    float: left;
+    clear: right;    
+}
+#left{
+}
+#right{
+
+}
