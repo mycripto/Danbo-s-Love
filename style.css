@@ -55,14 +55,14 @@ body{
 #head{
     height: 500px;
     padding-bottom: 20px;
-    background-image: url(./images/header-bg.png);
+    background-image: url("./images/header-bg.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
 #wrapper-mid{
     height: 500px;
     padding-bottom: 0;
-    background-image: url(./images/biography-bg.png);
+    background-image: url("./images/biography-bg.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -76,7 +76,7 @@ aside{
 #work{
     height: 400px;
     padding-bottom: 20px;
-    background-image: url(../images/latest-work-bg.png);
+    background-image: url("./images/latest-work-bg.png");
     background-size: 100%;
     background-repeat: no-repeat;
     
@@ -107,7 +107,7 @@ footer{
     width: 40%;
     height: 500px;
     margin-top: 30px;
-    background-image: url("../images/danbo1.png");
+    background-image: url("./images/danbo1.png");
     background-size: 70%;
     background-repeat: no-repeat;
     background-position: top, center;
@@ -201,7 +201,7 @@ footer{
 #footer{
     height: 400px;
     padding-bottom: 20px;
-    background-image: url(./images/footer-bg.png);
+    background-image: url("./images/footer-bg.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
